@@ -38,6 +38,10 @@ ul {
     justify-content: space-around;
 }
 
+.colorTitle {
+    color: white;
+}
+
 article,
 aside,
 details,
@@ -8097,3 +8101,5 @@ button.close {
         display: none !important
     }
 }
+
+
