@@ -16,6 +16,28 @@ body {
     margin: 0
 }
 
+.imagePortefolio {
+    height: 300px;
+    width: 300px;
+}
+
+.imagePartners {
+    height: 50px;
+    width: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.ul_inline {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
 article,
 aside,
 details,
